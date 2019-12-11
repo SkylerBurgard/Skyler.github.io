@@ -1,0 +1,27 @@
+header {
+  background: red;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 5px solid green;
+  color: white
+}
+.kittykat {
+  background: Olivedrab;
+  padding: 10px; 
+  margin: 0px 0px 10px 0px;
+  
+}
+
+ul {
+ list-style: none; 
+}
+
+img {
+  width: 670px;
+ 
+}
+
+#large-image {
+  
+  width: 670px;
+}
