@@ -1,27 +1,28 @@
-header {
-  background: red;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-bottom: 5px solid green;
-  color: white
-}
-.kittykat {
-  background: Olivedrab;
-  padding: 10px; 
-  margin: 0px 0px 10px 0px;
-  
-}
-
-ul {
- list-style: none; 
-}
-
-img {
-  width: 670px;
+body {
+  min-height: 100%;  
+  background: #eee;
  
+  font-weight: 400;
+  color: #222;
+  font-size: 14px;
+  line-height: 26px;
+  padding-bottom: 50px;
 }
 
-#large-image {
-  
-  width: 670px;
+.container {
+  max-width: 700px;   
+  background: #fff;
+  margin: 0px auto 0px; 
+  box-shadow: 1px 1px 2px #DAD7D7;
+  border-radius: 3px;  
+  padding: 40px;
+  margin-top: 50px;
 }
+
+.header {
+  margin-bottom: 30px
+}
+
+.center-div{
+  text-align: left;
+  }
